@@ -1,0 +1,18 @@
+{
+  "script": {
+    "bd9174c6-2775-4466-8fb9-f0507528b4ef": {
+      "_id": "bd9174c6-2775-4466-8fb9-f0507528b4ef",
+      "context": "AUTHENTICATION_TREE_DECISION_NODE",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "Check if mode has already been set.",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "mode - imported (4)",
+      "script": "file://mode-imported-(4).script.js"
+    }
+  }
+}

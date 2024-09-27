@@ -1,0 +1,18 @@
+{
+  "script": {
+    "fad04fdc-96f4-463d-bbf5-463b291e2d91": {
+      "_id": "fad04fdc-96f4-463d-bbf5-463b291e2d91",
+      "context": "AUTHENTICATION_TREE_DECISION_NODE",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "Inactive Device Match Script",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "Inactive Device Match Script - imported (3)",
+      "script": "file://Inactive-Device-Match-Script-imported-(3).script.js"
+    }
+  }
+}

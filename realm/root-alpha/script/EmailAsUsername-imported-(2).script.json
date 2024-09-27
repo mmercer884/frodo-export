@@ -1,0 +1,18 @@
+{
+  "script": {
+    "e93747bc-99b5-475b-9ed5-954c8808b018": {
+      "_id": "e93747bc-99b5-475b-9ed5-954c8808b018",
+      "context": "AUTHENTICATION_TREE_DECISION_NODE",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "null",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "EmailAsUsername - imported (2)",
+      "script": "file://EmailAsUsername-imported-(2).script.js"
+    }
+  }
+}

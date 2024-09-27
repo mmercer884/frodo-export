@@ -1,0 +1,18 @@
+{
+  "script": {
+    "f91a2d70-891a-4bfb-a000-2df5cb621d68": {
+      "_id": "f91a2d70-891a-4bfb-a000-2df5cb621d68",
+      "context": "AUTHENTICATION_TREE_DECISION_NODE",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "Custom Device Match Script",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "Custom Device Match Script - imported (2)",
+      "script": "file://Custom-Device-Match-Script-imported-(2).script.js"
+    }
+  }
+}

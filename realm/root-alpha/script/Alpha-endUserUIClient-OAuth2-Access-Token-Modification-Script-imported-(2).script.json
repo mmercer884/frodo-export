@@ -1,0 +1,18 @@
+{
+  "script": {
+    "3936979f-48f6-425a-9b17-a7602c026e43": {
+      "_id": "3936979f-48f6-425a-9b17-a7602c026e43",
+      "context": "OAUTH2_ACCESS_TOKEN_MODIFICATION",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "Used by endUserUIClient",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "Alpha endUserUIClient OAuth2 Access Token Modification Script - imported (2)",
+      "script": "file://Alpha-endUserUIClient-OAuth2-Access-Token-Modification-Script-imported-(2).script.js"
+    }
+  }
+}

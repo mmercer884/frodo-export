@@ -1,0 +1,18 @@
+{
+  "script": {
+    "b95db8b9-227b-457e-b4dd-b0e754dcf7b5": {
+      "_id": "b95db8b9-227b-457e-b4dd-b0e754dcf7b5",
+      "context": "AUTHENTICATION_TREE_DECISION_NODE",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "null",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "Format Username - imported (2)",
+      "script": "file://Format-Username-imported-(2).script.js"
+    }
+  }
+}

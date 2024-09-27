@@ -1,0 +1,18 @@
+{
+  "script": {
+    "d3a32608-4bdd-427c-b55f-f96641c52c58": {
+      "_id": "d3a32608-4bdd-427c-b55f-f96641c52c58",
+      "context": "SAML2_SP_ADAPTER",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "null",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "FrodoSPAdapter - imported (6)",
+      "script": "file://FrodoSPAdapter-imported-(6).script.js"
+    }
+  }
+}

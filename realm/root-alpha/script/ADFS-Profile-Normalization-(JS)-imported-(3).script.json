@@ -1,0 +1,18 @@
+{
+  "script": {
+    "a5b0605a-d9fc-4fcf-8e7a-753d03050e14": {
+      "_id": "a5b0605a-d9fc-4fcf-8e7a-753d03050e14",
+      "context": "SOCIAL_IDP_PROFILE_TRANSFORMATION",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "Normalizes raw profile data from ADFS",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "ADFS Profile Normalization (JS) - imported (3)",
+      "script": "file://ADFS-Profile-Normalization-(JS)-imported-(3).script.js"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "script": {
+    "f20a1365-a2c9-47d1-818e-4fc6692f12a8": {
+      "_id": "f20a1365-a2c9-47d1-818e-4fc6692f12a8",
+      "context": "AUTHENTICATION_TREE_DECISION_NODE",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "set the same shared state variable",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "shared - imported (2)",
+      "script": "file://shared-imported-(2).script.js"
+    }
+  }
+}

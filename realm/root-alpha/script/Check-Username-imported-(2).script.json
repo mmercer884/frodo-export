@@ -1,0 +1,18 @@
+{
+  "script": {
+    "4b80a80e-033e-4638-87ee-35cd0f9e3208": {
+      "_id": "4b80a80e-033e-4638-87ee-35cd0f9e3208",
+      "context": "AUTHENTICATION_TREE_DECISION_NODE",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "Check if username has already been collected.",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "Check Username - imported (2)",
+      "script": "file://Check-Username-imported-(2).script.js"
+    }
+  }
+}

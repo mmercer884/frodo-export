@@ -1,0 +1,18 @@
+{
+  "script": {
+    "be4c9e5e-37e3-4fa1-8960-c1387f01bed6": {
+      "_id": "be4c9e5e-37e3-4fa1-8960-c1387f01bed6",
+      "context": "AUTHENTICATION_TREE_DECISION_NODE",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "Dummy",
+      "evaluatorVersion": "2.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "Dummy - imported (1)",
+      "script": "file://Dummy-imported-(1).script.js"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "script": {
+    "c9495eff-5489-434b-97e6-67a9c2d77630": {
+      "_id": "c9495eff-5489-434b-97e6-67a9c2d77630",
+      "context": "OIDC_CLAIMS",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "Used by endUserUIClient",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "Alpha endUserUIClient OIDC Claims Script - imported (1)",
+      "script": "file://Alpha-endUserUIClient-OIDC-Claims-Script-imported-(1).script.js"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "script": {
+    "770d32ef-0916-487c-8377-0dccae666e2d": {
+      "_id": "770d32ef-0916-487c-8377-0dccae666e2d",
+      "context": "AUTHENTICATION_TREE_DECISION_NODE",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "set per level shared state variable",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "level - imported (3)",
+      "script": "file://level-imported-(3).script.js"
+    }
+  }
+}

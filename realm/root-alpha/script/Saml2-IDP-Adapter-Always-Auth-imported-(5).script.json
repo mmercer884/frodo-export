@@ -1,0 +1,18 @@
+{
+  "script": {
+    "99540094-4046-407c-945b-a85cbc89226a": {
+      "_id": "99540094-4046-407c-945b-a85cbc89226a",
+      "context": "SAML2_IDP_ADAPTER",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "Always redirect browser pre-auth",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "Saml2 IDP Adapter Always Auth - imported (5)",
+      "script": "file://Saml2-IDP-Adapter-Always-Auth-imported-(5).script.js"
+    }
+  }
+}

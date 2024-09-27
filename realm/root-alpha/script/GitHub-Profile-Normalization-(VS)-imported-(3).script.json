@@ -1,0 +1,18 @@
+{
+  "script": {
+    "e8e75116-503f-4a56-a91c-e752da02aff2": {
+      "_id": "e8e75116-503f-4a56-a91c-e752da02aff2",
+      "context": "SOCIAL_IDP_PROFILE_TRANSFORMATION",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "Normalizes raw profile data from GitHub",
+      "evaluatorVersion": "1.0",
+      "language": "GROOVY",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "GitHub Profile Normalization (VS) - imported (3)",
+      "script": "file://GitHub-Profile-Normalization-(VS)-imported-(3).script.groovy"
+    }
+  }
+}

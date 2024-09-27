@@ -1,0 +1,18 @@
+{
+  "script": {
+    "dd4236bb-950b-4bc6-8ed9-7f61d78c8121": {
+      "_id": "dd4236bb-950b-4bc6-8ed9-7f61d78c8121",
+      "context": "LIBRARY",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "My Example Library",
+      "evaluatorVersion": "2.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "My Example Library - imported (2)",
+      "script": "file://My-Example-Library-imported-(2).script.js"
+    }
+  }
+}

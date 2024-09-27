@@ -1,0 +1,18 @@
+{
+  "script": {
+    "4b30ad58-43c4-40d8-9395-782165b95cdd": {
+      "_id": "4b30ad58-43c4-40d8-9395-782165b95cdd",
+      "context": "AUTHENTICATION_TREE_DECISION_NODE",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "set per level shared state variable",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "level - imported (4)",
+      "script": "file://level-imported-(4).script.js"
+    }
+  }
+}

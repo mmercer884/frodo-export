@@ -1,0 +1,18 @@
+{
+  "script": {
+    "8fc1489a-d647-4ffe-bea8-2ed7001e8bab": {
+      "_id": "8fc1489a-d647-4ffe-bea8-2ed7001e8bab",
+      "context": "AUTHENTICATION_TREE_DECISION_NODE",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "My Example Script Using Libraries",
+      "evaluatorVersion": "2.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "My Example Script Using Libraries - imported (2)",
+      "script": "file://My-Example-Script-Using-Libraries-imported-(2).script.js"
+    }
+  }
+}

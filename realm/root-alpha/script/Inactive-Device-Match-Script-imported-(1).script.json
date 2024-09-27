@@ -1,0 +1,18 @@
+{
+  "script": {
+    "15e7ec99-7212-4022-bded-6ab59f330331": {
+      "_id": "15e7ec99-7212-4022-bded-6ab59f330331",
+      "context": "AUTHENTICATION_TREE_DECISION_NODE",
+      "createdBy": "null",
+      "creationDate": 0,
+      "default": false,
+      "description": "Inactive Device Match Script",
+      "evaluatorVersion": "1.0",
+      "language": "JAVASCRIPT",
+      "lastModifiedBy": "null",
+      "lastModifiedDate": 0,
+      "name": "Inactive Device Match Script - imported (1)",
+      "script": "file://Inactive-Device-Match-Script-imported-(1).script.js"
+    }
+  }
+}
